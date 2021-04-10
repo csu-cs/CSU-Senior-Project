@@ -39,6 +39,7 @@ At the end of this course, the student is expected to have completed his/her pro
 
 ### The defense documentation shall include the following chapters.
 
+0.  At the begining, include the project title and date followed by the student's name, major, degree, project advisor.
 1.  Statement of Purpose (with the Problem Statement)
 2.  Research & Background
 3.  Project Language(s), Software, and Hardware
@@ -73,7 +74,7 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to Charleston Southern University’s [Code of Academic Honesty](https://www.charlestonsouthern.edu/wp-content/uploads/2019/08/Policy-R-58-updated-Feb-2019.pdf). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+All students are expected to adhere to Charleston Southern University’s [Code of Academic Honesty](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2020.pdf). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
 
 ### Course Evaluations
 
