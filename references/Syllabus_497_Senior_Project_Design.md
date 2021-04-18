@@ -47,6 +47,8 @@ To proposal will contain the following information:
 
 - [ ] Student Name :woman::man:
 
+- [ ] Degree and Major :computer::key:
+
 - [ ] Project Advisor Name :older_woman::older_man:
 
 - [ ] Expected Graduation Date :date::checkered_flag:
