@@ -105,17 +105,17 @@ CSU's basic netiquette rules are:
 
 ### Disability Services
 
-Any student who may need accommodations should review the requirements/procedures on the [Disability Services website](http://www.csuniv.edu/student-success/disabilityservices.php). Once approved to receive accommodations through Disability Services, the student will need to contact the instructor.
+Any student who may need accommodations should review the requirements/procedures on the [Disability Services website](https://www.charlestonsouthern.edu/academics/student-success-center/disability-services/). Once approved to receive accommodations through Disability Services, the student will need to contact the instructor.
 
-### Remote-Location Accommodation
+### COVID-19 Considerations
 
-Students enrolled in this on-campus class have the option to request permission to complete all course requirements from a remote location.  Upon receiving this permission, the student accepts full responsibility for regularly accessing all on-line materials and completing all on-line assignments in a timely manner.  Should you decide to seek this accommodation, please contact the instructor about the next step in the process.  The approval process for the virtual learning accommodation may involve intervention by the CSU Student Success Center. **PLEASE** do not come to class if you are sick. Choose to stay safe and watch the recorded version of the class delivery until you are feeling better.
+Students must report symptoms or exposure PRIOR to their absence by screening via Live Safe or emailing <lglover@csuniv.edu> and must respond to all follow-up communication (via email or telephone) in a timely (i.e., 12-24 hours) manner.
 
-If the virtual accommodation is granted, the student is obligated to pursue their studies remotely for the remainder of the semester without regard to any change in personal, campus community, or other circumstances. This caveat can be waived by the instructor (particularly if we are able to transition back to more hybrid or face-to-face deliveries).
+**PLEASE do not meet in-person if you are sick. By doing so you are helping ensure the safety of your fellow students and the CSU staff and faculty. You must e-mail instructors before the meeting to inform them you’re sick or have been exposed to COVID-19. You can communicate remotely with your faculty advisor and project team.**
 
 ### Nondiscrimination Policy and Student Rights
 
-Charleston Southern University does not illegally discriminate based on race, color, national or ethnic origin, sex, disability, age, religion, genetic information, veteran or military status, or any other basis.  Inquiries regarding the non-discrimination policies should be directed to Latitia R. Adams, Title IX Coordinator, 843-863-7374, <ladams@csuniv.edu>.  Students should refer to the [CSU Student Handbook](<https://www.charlestonsouthern.edu/wp-content/uploads/2019/07/studenthandbook.pdf>) to be fully informed of their rights and remedies.
+Charleston Southern University does not illegally discriminate based on race, color, national or ethnic origin, sex, disability, age, religion, genetic information, veteran or military status, or any other basis.  Inquiries regarding the non-discrimination policies should be directed to Latitia R. Adams, Title IX Coordinator, 843-863-7374, <ladams@csuniv.edu>.  Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/life-at-csu/student-resources/) to be fully informed of their rights and remedies.
 
 ------------
 
