@@ -39,7 +39,7 @@ At the end of this course, the student is expected to have completed his/her pro
 
 ### The defense documentation shall include the following chapters.
 
-0.  At the begining, include the project title and date followed by the student's name, major, degree, project advisor.
+0.  At the beginning, include the project title and date followed by the student's name, major, degree, project advisor.
 1.  Statement of Purpose (with the Problem Statement)
 2.  Research & Background
 3.  Project Language(s), Software, and Hardware
