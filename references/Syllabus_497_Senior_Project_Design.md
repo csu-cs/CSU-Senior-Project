@@ -43,7 +43,7 @@ The deadline to submit the **final** proposal is noon two weeks before the last 
 
 ### Proposal
 
-To proposal will contain the following information:
+The proposal will contain the following information:
 
 - [ ] Student Name :woman::man:
 
