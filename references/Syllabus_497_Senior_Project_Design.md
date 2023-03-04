@@ -127,7 +127,7 @@ Each requirement will contain at least the following information.
 6.  Priority
 7.  Dependencies (*the ID of any requirement that must be completed before this requirement if any.*)
 
-Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=JSkGKcmDcKE).
+Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=7cwW1P-8Opc).
 
 ## Grading
 
