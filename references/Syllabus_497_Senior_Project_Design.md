@@ -145,7 +145,7 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to Charleston Southern University’s [Code of Academic Honesty](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2020.pdf). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+All students are expected to adhere to Charleston Southern University’s [Code of Academic Honesty](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2023.pdf). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
 
 ### Course Evaluations
 
@@ -178,16 +178,10 @@ CSU's basic netiquette rules are:
 
 Any student who may need accommodations should review the requirements/procedures on the [Disability Services website](https://www.charlestonsouthern.edu/academics/student-success-center/disability-services/). Once approved to receive accommodations through Disability Services, the student will need to contact the instructor.
 
-### COVID-19 Considerations
-
-Students must report symptoms or exposure PRIOR to their absence by screening via Live Safe or emailing <lglover@csuniv.edu> and must respond to all follow-up communication (via email or telephone) in a timely (i.e., 12-24 hours) manner.
-
-**PLEASE do not meet in-person if you are sick. By doing so you are helping ensure the safety of your fellow students and the CSU staff and faculty. You must e-mail instructors before the meeting to inform them you’re sick or have been exposed to COVID-19. You can communicate remotely with your faculty advisor and project team.**
-
 ### Nondiscrimination Policy and Student Rights
 
-Charleston Southern University does not illegally discriminate based on race, color, national or ethnic origin, sex, disability, age, religion, genetic information, veteran or military status, or any other basis.  Inquiries regarding the non-discrimination policies should be directed to Latitia R. Adams, Title IX Coordinator, 843-863-7374, <ladams@csuniv.edu>.  Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/wp-content/uploads/studenthandbook.pdf) to be fully informed of their rights and remedies.
+Charleston Southern University does not illegally discriminate based on race, color, national or ethnic origin, sex, disability, age, religion, genetic information, veteran or military status, or any other basis.  Inquiries regarding the non-discrimination policies should be directed to [Phillip Muckelvane](https://www.charlestonsouthern.edu/directory/muckelvaney-phillip/), Title IX Coordinator, <pmuckelvaney@csuniv.edu>.  Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/) to be fully informed of their rights and remedies.
 
 ------------
 
-See all course, department, and university policies located in [Blackboard](https://csuniv.blackboard.com) and the [CSU Student Handbook](https://www.charlestonsouthern.edu/wp-content/uploads/studenthandbook.pdf).
+See all course, department, and university policies located in [Blackboard](https://csuniv.blackboard.com) and the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/).
