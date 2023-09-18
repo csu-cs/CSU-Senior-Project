@@ -19,3 +19,9 @@ December 2024
 
 ## Project Description:
 &nbsp; &nbsp; &nbsp; For my senior project, I will be creating an IOS symptom tracker/medical manager application which will essentially build upon existing apps. This application will be fully customizable, yet user friendly and esthetically pleasing. In addition to symptom tracking, users will be offered the ability to log mood, lifestyle factors (exercise, stress, diet, etc.), goals, gratitude, affirmations, complete journal prompts, general notetaking, appointment notetaking, log medical device application/maintenance, and log medications. Additionally, optional features which may be included are appointment voice recordings, medication/general reminders, custom report generation, and/or synching capabilities with apple watch devices for automatic heart rate, oxygen saturation, sleep, and step logs. Some considerations for this project include compliance with HIPAA laws and application security features to ensure user information remains private and secure.
+
+## Proposed Implementation Language(s): 
+&nbsp; &nbsp; &nbsp; I will be using Swift as the implementation language to develop my symptom manager IOS application. 
+
+## Libraries, Packages, Development Kits, etc. to be used in the proposed implementation languages(s):
+&nbsp; &nbsp; &nbsp; Xcode is the IDE that I will be using for the development of my IOS application. I will utilize Apple's CloudKit for the application's back end. 
