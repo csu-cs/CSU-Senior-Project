@@ -25,3 +25,12 @@ December 2024
 
 ## Libraries, Packages, Development Kits, etc. to be used in the proposed implementation languages(s):
 &nbsp; &nbsp; &nbsp; Xcode is the IDE that I will be using for the development of my IOS application. I will utilize Apple's CloudKit for the application's back end. 
+
+## Additional Software/Equipment Needed:
+&nbsp; &nbsp; &nbsp; I will need a Mac computer for the software needed to develop this IOS application. This can be done with my 2020 MacBook Air. I will also need to use my Apple ID for the IOS IPhone simulator tool in Xcode.
+
+## Personal Motivation:
+&nbsp; &nbsp; &nbsp; My motivation for this project stems from me being a patient, myself. I have a systemic autoimmune condition which affects almost every system of my body and requires many specialists and therefore, many appointments. Having the ability to track my symptoms and treatments/medications will allow me to be better manage my health and prepare for medical appointments. I have tried many symptom tracker apps and I have not found one that fits all of my needs. I am excited to incorporate my background in cybersecurity in developing this application due to the need to protect sensitive user information. I look forward to this project and getting the opportunity to combine my two passions: medicine/healthcare and cybersecurity.
+
+
+
