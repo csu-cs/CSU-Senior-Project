@@ -32,5 +32,23 @@ December 2024
 ## Personal Motivation:
 &nbsp; &nbsp; &nbsp; My motivation for this project stems from me being a patient, myself. I have a systemic autoimmune condition which affects almost every system of my body and requires many specialists and therefore, many appointments. Having the ability to track my symptoms and treatments/medications will allow me to be better manage my health and prepare for medical appointments. I have tried many symptom tracker apps and I have not found one that fits all of my needs. I am excited to incorporate my background in cybersecurity in developing this application due to the need to protect sensitive user information. I look forward to this project and getting the opportunity to combine my two passions: medicine/healthcare and cybersecurity.
 
+## Outline of Future Research Efforts:
+&nbsp; &nbsp; &nbsp; There are a few things that I will need to research for this project to be completed successfuly. First, I will need to learn Swift. Next, I will need to understand how how Apple's CloudKit and HealthKit work with Swift. If I want to include the voice recording feature, I need to research software that I may use which is compatible with Swift. Finally, I will need to research Swift, HealthKit, and CloudKit security features to ensure the application is secure. I will be utilizing the Swift - Apple Developer website and ios Accademy YouTube videos for most of my research. Deliverables will include symptom log feature, lifestyle log feature, Journal feature, medication log feature, medical device log feature, and notes feature. If time permits, I will deliver a reminders feature and voice recorder feature. Finally, I will deliver a test plan/results, final project report, and defense documentation/presentation. 
 
+## Schedule
+* Spring 2024 - CSCI 498
+  * Around week 2 - complete symptom log feature
+  * Around week 4 - complete lifestyle log feature
+  * Around week 6 - complete journal feature
+  * Around week 8 - complete medication log feature
+  * Around week 10 - complete medical device log feature
+  * Around week 12 - complete notes feature
+
+* Summer 2024 - Independent Project Work
+  * By end of summer break - complete additional features (reminders, voice recordings)
+
+* Fall 2024 - CSCI 499
+  * Around week 2 - complete test plan
+  * Around week 5 - complete application testing
+  * Around week 7 - complete remainder of defense documentation
 
