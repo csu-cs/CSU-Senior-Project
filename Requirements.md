@@ -1,7 +1,10 @@
 # Senior Project Requirements
 
-## Requirement Type 1 - Symptom Log:
-- Requirement # 1: (functional) The product will allow user to create categories for symptom tracking organization (ex. Organize by body system, specialty/doctor, diagnosis)
+# Requirement Type 1 - Functional:
+
+## Symptom Log:
+
+- Requirement # 1: The product will allow user to create categories for symptom tracking organization (ex. Organize by body system, specialty/doctor, diagnosis)
 
   &nbsp;&nbsp;&nbsp; - Rationale: Organizing symptoms by category makes it easier for users to find individual symptoms and summarize data.
 
@@ -17,7 +20,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 2: (functional) The product will allow user to create symptoms to track and select which category they wish to place the symptom into (ex. Symptom chest pain may be placed in cardiovascular category)
+- Requirement # 2: The product will allow user to create symptoms to track and select which category they wish to place the symptom into (ex. Symptom chest pain may be placed in cardiovascular category)
 
   &nbsp;&nbsp;&nbsp; - Rationale: Users need to have the ability to create a custom symptom to track and choose which category to place the symptom so the set up best fits the needs of the user. 
 
@@ -33,7 +36,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 3: (functional) For each symptom, the product will allow the user to select time of day that the symptom occurs
+- Requirement # 3: For each symptom, the product will allow the user to select time of day that the symptom occurs
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to track time of day symptom occurs to identify patterns in symptom occurance. 
 
@@ -49,7 +52,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 4: (functional) For each symptom, the product will allow the user to document symptom severity.
+- Requirement # 4: For each symptom, the product will allow the user to document symptom severity.
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to track symptom severity to identify patterns and better manage symptom. 
 
@@ -65,7 +68,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 5: (functional) For each symptom, the product will allow the user to document relieving factors (ex. Medications, resting, heating pad, etc.).
+- Requirement # 5: For each symptom, the product will allow the user to document relieving factors (ex. Medications, resting, heating pad, etc.).
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to track relieving factors to identify patterns and better manage symptom. 
 
@@ -81,7 +84,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 6: (functional) For each symptom, the product will allow the user to document aggravating/causative factors (ex. Activity, caffeine, food/drink, stress, etc.).
+- Requirement # 6: For each symptom, the product will allow the user to document aggravating/causative factors (ex. Activity, caffeine, food/drink, stress, etc.).
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to track aggrevating factors to identify patterns and better manage symptom. 
 
@@ -97,7 +100,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 7: (functional) For each symptom, the product will allow the user to add a note.
+- Requirement # 7: For each symptom, the product will allow the user to add a note.
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to have the ability to add a note to a symptom entry in case there is additional information the user wishes to associate with the symptom that is not part of the provided symptom data entry. 
 
@@ -113,7 +116,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 8: (functional) The product will generate a daily symptom score for each category based on symptom input from past 24 hours
+- Requirement # 8: The product will generate a daily symptom score for each category based on symptom input from past 24 hours
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to see overall symptom severity per category per day to gain a better understanding of symptom control and affect on quality of life.  
 
@@ -129,7 +132,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-- Requirement # 9: (functional) The product will generate a daily symptom score for each symptom based on symptom input from past 24 hours
+- Requirement # 9: The product will generate a daily symptom score for each symptom based on symptom input from past 24 hours
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to see overall symptom severity per symptom per day to gain a better understanding of symptom control and affect on quality of life.  
 
@@ -145,9 +148,9 @@
 
   &nbsp;&nbsp;&nbsp; - History: 10/31/23
 
-  ## Requirement Type 2 - Lifestyle Log:
+  ## Lifestyle Log:
 
-- Requirement # 10: (functional) The product will allow user to create or choose lifestyle factor (ex. Exercise/activity, diet, water intake, stress, caffeine, sleep, etc.).
+- Requirement # 10: The product will allow user to create or choose lifestyle factor (ex. Exercise/activity, diet, water intake, stress, caffeine, sleep, etc.).
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to track lifestyle factors to identify patterns and better manage symptom. Tracking lifestyle factors can also help the user live a healthier lifestyle. 
 
@@ -163,7 +166,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 11: (functional) The product will allow user to document time of day of lifestyle factor.
+- Requirement # 11: The product will allow user to document time of day of lifestyle factor.
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to document time of day of lifestyle factor to identify patterns in symptoms, symptom occurance, and/or symptom relief. 
 
@@ -179,7 +182,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 12: (functional) The product will allow user to measure lifestyle factor.
+- Requirement # 12: The product will allow user to measure lifestyle factor.
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is beneficial for users to measure lifestyle factor to identify patterns in symptoms, symptom occurance, and/or symptom relief. 
 
@@ -195,9 +198,9 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-## Requirement Type 3 - Medication Log:
+## Medication Log:
 
-- Requirement # 13: (functional) The product will allow user to input list of medications and associated information (dosage, alternative name, etc.)
+- Requirement # 13: The product will allow user to input list of medications and associated information (dosage, alternative name, etc.)
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allows user to keep track of their medications in one place on one application. 
 
@@ -213,7 +216,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 14: (functional) The product will allow user to log time of day medication is taken.
+- Requirement # 14: The product will allow user to log time of day medication is taken.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allows user to keep track of when/if medication is taken. Many patients have difficulty remembering when or if they took their medication. This feature will allow users the ability to log when their medication is taken, so they can eliminate the possibility of the user missing a dose of medication or taking additional doses of medication.  
 
@@ -229,9 +232,9 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-## Requirement Type 4 - Reminders/Tasks/Goals:
+## Reminders/Tasks/Goals:
 
-- Requirement # 15: (functional) The product will allow user to set reminders for medications, lifestyle factors, appointments, device changes/maintenance, etc.
+- Requirement # 15: The product will allow user to set reminders for medications, lifestyle factors, appointments, device changes/maintenance, etc.
 
   &nbsp;&nbsp;&nbsp; - Rationale: It is easy to forget medications, doctors appoinments, medical device changes/maintenance, exercise, and even staying hydrated. The reminder feature will allow users the ability to choose to be reminded for anything they wish and take a little off their shoulders.  
 
@@ -247,7 +250,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 16: (functional) The product will allow users to add customized tasks/goals (exercise, PT, water goal, step goal, stand goal, etc.).
+- Requirement # 16: The product will allow users to add customized tasks/goals (exercise, PT, water goal, step goal, stand goal, etc.).
 
   &nbsp;&nbsp;&nbsp; - Rationale: Users may wish to keep track of tasks/goals and have the ability to check a task/goal off a list. This can help users stay more organized and motivated to complete tasks/goals.  
 
@@ -263,9 +266,9 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-## Requirement Type 5 - Notes:
+## Notes:
 
-- Requirement # 17: (functional) The product will allow user to create categories to organize notes (organize by doctor, specialty, diagnosis, etc.).
+- Requirement # 17: The product will allow user to create categories to organize notes (organize by doctor, specialty, diagnosis, etc.).
 
   &nbsp;&nbsp;&nbsp; - Rationale: Organizing notes by category makes it easier for users to find individual notes and summarize data.   
 
@@ -281,7 +284,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 18: (functional) The product will allow user to add appointment note (symptom rundown, medication effects/side effects, questions/answers, plan).
+- Requirement # 18: The product will allow user to add appointment note (symptom rundown, medication effects/side effects, questions/answers, plan).
 
   &nbsp;&nbsp;&nbsp; - Rationale: Users may find it easier to prepare for appointments and track care plan when they have the ability to takes notes and organize/keep notes in one application.   
 
@@ -297,7 +300,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-- Requirement # 19: (functional) The product will allow user to record appointment (voice recording and/or transcribed notes).
+- Requirement # 19: The product will allow user to record appointment (voice recording and/or transcribed notes).
 
   &nbsp;&nbsp;&nbsp; - Rationale: Users may find it easier to have appointment recorded, so they may review what was discussed during appointment.    
 
@@ -313,9 +316,9 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/6/23
 
-## Requirement Type 6 - Health Measurements/Synchronization:
+## Health Measurements/Synchronization:
 
-- Requirement # 20: (functional) The product will allow synchronization with user’s apple watch to track user’s heart rate.
+- Requirement # 20: The product will allow synchronization with user’s apple watch to track user’s heart rate.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing synchronization with Apple watch eliminates the need for user to manually input heart rate and provides user with an all-in-one application to track their health data.    
 
@@ -331,7 +334,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 21: (functional) The product will allow user the option to manually input heart rate.
+- Requirement # 21: The product will allow user the option to manually input heart rate.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing user to manually input heart rate makes the health data tracking feature avaialble to users not using Apple Watch and allows users who do use the Apple Watch to input heart rate measurements not automatically sent to product from Apple Watch. Users are also provided with an all-in-one application to track their health data.    
 
@@ -347,7 +350,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 22: (functional) The product will allow synchronization with user’s apple watch to track user’s blood oxygen.
+- Requirement # 22: The product will allow synchronization with user’s apple watch to track user’s blood oxygen.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing synchronization with Apple watch eliminates the need for user to manually input blood oxygen and provides user with an all-in-one application to track their health data.   
 
@@ -363,7 +366,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 23: (functional) The product will allow user the option to manually input blood oxygen.
+- Requirement # 23: The product will allow user the option to manually input blood oxygen.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing user to manually input blood oxygen makes the health data tracking feature avaialble to users not using Apple Watch and allows users who do use the Apple Watch to input heart rate measurements not automatically sent to product from Apple Watch. Users are also provided with an all-in-one application to track their health data.    
 
@@ -379,7 +382,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 24: (functional) The product will allow synchronization with user’s apple watch to track user’s step count.
+- Requirement # 24: The product will allow synchronization with user’s apple watch to track user’s step count.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing synchronization with Apple watch eliminates the need for user to manually input step count and provides user with an all-in-one application to track their health data.   
 
@@ -395,7 +398,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 25: (functional) The product will allow user the option to manually input step count.
+- Requirement # 25: The product will allow user the option to manually input step count.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing user to manually input step count makes the health data tracking feature avaialble to users not using Apple Watch and allows users who do use the Apple Watch to input step count not automatically sent to product from Apple Watch. Users are also provided with an all-in-one application to track their health data.    
 
@@ -411,7 +414,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 26: (functional) The product will allow synchronization with user’s iPhone Health App to track user’s blood pressure.
+- Requirement # 26: The product will allow synchronization with user’s iPhone Health App to track user’s blood pressure.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing synchronization with iPhone Health App eliminates the need for user to manually input step count into product and provides user with an all-in-one application to track their health data.   
 
@@ -427,7 +430,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 27: (functional) The product will allow user the option to manually input blood pressure reading.
+- Requirement # 27: The product will allow user the option to manually input blood pressure reading.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing user to manually input blood pressure reading makes the health data tracking feature avaialble to users not using iPhone Health app. Users are also provided with an all-in-one application to track their health data.    
 
@@ -443,7 +446,7 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-- Requirement # 28: (functional) The product will allow user the option to manually input blood glucose reading.
+- Requirement # 28: The product will allow user the option to manually input blood glucose reading.
 
   &nbsp;&nbsp;&nbsp; - Rationale: Allowing user to manually input blood glucose allows users are also provided with an all-in-one application to track their health data.    
 
@@ -459,7 +462,77 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/13/23
 
-## Requirement Type 7 - Security:
+# Requirement Type 2 - Security:
+
+- Requirement # 29: The product will protect user privacy with encorporation of Apple HealthKit for synchronization of health data. 
+
+  &nbsp;&nbsp;&nbsp; - Rationale: This product, which contains sensitive personal health information, must be secure to ensure privacy of personal health data.   
+
+  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
+
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: Through use of Apple HealthKit, this product will allow users to explicitly grant the app permission to read and write data to the HealthKit store. Users can grant or deny permission separately for each type of data. In addition, the user’s device stores all HealthKit data locally. For security, the device encrypts the HealthKit store when the user locks the device. 
+
+  &nbsp;&nbsp;&nbsp; - Priority: High Priority
+
+  &nbsp;&nbsp;&nbsp; - Dependencies: 
+
+  &nbsp;&nbsp;&nbsp; - Supporting Materials: https://developer.apple.com/documentation/healthkit/protecting_user_privacy
+
+  &nbsp;&nbsp;&nbsp; - History: 11/14/23
+
+# Requirement Type 3 - Look and Feel:
+
+- Requirement # 30: 
+
+  &nbsp;&nbsp;&nbsp; - Rationale: 
+
+  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
+
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
+
+  &nbsp;&nbsp;&nbsp; - Priority: High Priority
+
+  &nbsp;&nbsp;&nbsp; - Dependencies: 
+
+  &nbsp;&nbsp;&nbsp; - Supporting Materials: 
+
+  &nbsp;&nbsp;&nbsp; - History:
+
+# Requirement Type 4 - Usability:
+
+- Requirement # : 
+
+  &nbsp;&nbsp;&nbsp; - Rationale: 
+
+  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
+
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
+
+  &nbsp;&nbsp;&nbsp; - Priority: High Priority
+
+  &nbsp;&nbsp;&nbsp; - Dependencies: 
+
+  &nbsp;&nbsp;&nbsp; - Supporting Materials: 
+
+  &nbsp;&nbsp;&nbsp; - History:
+
+# Requirement Type 5 - Performance:
+
+- Requirement # : 
+
+  &nbsp;&nbsp;&nbsp; - Rationale: 
+
+  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
+
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
+
+  &nbsp;&nbsp;&nbsp; - Priority: High Priority
+
+  &nbsp;&nbsp;&nbsp; - Dependencies: 
+
+  &nbsp;&nbsp;&nbsp; - Supporting Materials: 
+
+  &nbsp;&nbsp;&nbsp; - History:
 
 
 
