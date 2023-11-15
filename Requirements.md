@@ -480,9 +480,25 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/14/23
 
+- Requirement # 30: The product will securely store user data and only grant access of user data to peritted devices using Apple CloudKit. 
+
+  &nbsp;&nbsp;&nbsp; - Rationale: This product, which contains sensitive personal health information, must be secure to ensure privacy of personal health data.   
+
+  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
+
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: Through use of Apple CloudKit, this product will ensure each container’s private database is protected by a key hierarchy, rooted in an asymmetric key called a CloudKit Service key. These keys are unique to each iCloud user and generated on their trusted device. 
+
+  &nbsp;&nbsp;&nbsp; - Priority: High Priority
+
+  &nbsp;&nbsp;&nbsp; - Dependencies: 
+
+  &nbsp;&nbsp;&nbsp; - Supporting Materials: https://support.apple.com/guide/security/icloud-encryption-
+
+  &nbsp;&nbsp;&nbsp; - History: 11/15/23
+
 # Requirement Type 3 - Look and Feel:
 
-- Requirement # 30: 
+- Requirement # 31: 
 
   &nbsp;&nbsp;&nbsp; - Rationale: 
 
