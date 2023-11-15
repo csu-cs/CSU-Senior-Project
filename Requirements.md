@@ -496,15 +496,15 @@
 
   &nbsp;&nbsp;&nbsp; - History: 11/15/23
 
-# Requirement Type 3 - Look and Feel:
+# Requirement Type 3 - Usability:
 
-- Requirement # 31: 
+- Requirement # 31: This product will be user-friendly.
 
-  &nbsp;&nbsp;&nbsp; - Rationale: 
+  &nbsp;&nbsp;&nbsp; - Rationale: This product needs to be user friendly, or users will not be willing to use it. Users often do not want to spend more than a few minutes learning how to use an application. 
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: This product can be used by a 70 year old older adult or a 10 year old child.
 
   &nbsp;&nbsp;&nbsp; - Priority: High Priority
 
@@ -512,9 +512,9 @@
 
   &nbsp;&nbsp;&nbsp; - Supporting Materials: 
 
-  &nbsp;&nbsp;&nbsp; - History:
+  &nbsp;&nbsp;&nbsp; - History: 11/15/23
 
-# Requirement Type 4 - Usability:
+# Requirement Type 4 - Performance:
 
 - Requirement # : 
 
@@ -530,25 +530,7 @@
 
   &nbsp;&nbsp;&nbsp; - Supporting Materials: 
 
-  &nbsp;&nbsp;&nbsp; - History:
-
-# Requirement Type 5 - Performance:
-
-- Requirement # : 
-
-  &nbsp;&nbsp;&nbsp; - Rationale: 
-
-  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
-
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
-
-  &nbsp;&nbsp;&nbsp; - Priority: High Priority
-
-  &nbsp;&nbsp;&nbsp; - Dependencies: 
-
-  &nbsp;&nbsp;&nbsp; - Supporting Materials: 
-
-  &nbsp;&nbsp;&nbsp; - History:
+  &nbsp;&nbsp;&nbsp; - History: 11/15/23
 
 
 
