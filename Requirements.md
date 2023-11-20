@@ -10,7 +10,7 @@
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more categories and the categories will be updated within five seconds of creation.
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create at least one category for symptom organization.
 
   &nbsp;&nbsp;&nbsp; - Priority: High priority
 
@@ -26,7 +26,7 @@
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more symptom entries and select one category to place symptom into. The symptom entry will update within five seconds of creation.
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create at least one symptom entries and select one category to place symptom into.
 
   &nbsp;&nbsp;&nbsp; - Priority: high priority
 
@@ -274,7 +274,7 @@
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more categories and the categories will be updated within five seconds of creation.
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more categories.
 
   &nbsp;&nbsp;&nbsp; - Priority: Medium priority
 
@@ -290,7 +290,7 @@
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more notes and place each note into a category. The note will be visible within 5 seconds of creation. 
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user will be able to create one or more notes and place each note into a category.
 
   &nbsp;&nbsp;&nbsp; - Priority: High priority
 
@@ -306,7 +306,7 @@
 
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user may be able to use the recording feature and actively record as long as the iPhone has a charge and the user has not selected to pause or stop the recording. The recording may be transcribed if the user chooses.  
+  &nbsp;&nbsp;&nbsp; - Fit Criterion: The user may be able to use the recording feature and actively record as long as the iPhone has a charge and the user has not selected to pause or stop the recording.
 
   &nbsp;&nbsp;&nbsp; - Priority: Optional
 
@@ -505,24 +505,6 @@
   &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
 
   &nbsp;&nbsp;&nbsp; - Fit Criterion: This product can be used by a 70 year old older adult or a 10 year old child.
-
-  &nbsp;&nbsp;&nbsp; - Priority: High Priority
-
-  &nbsp;&nbsp;&nbsp; - Dependencies: 
-
-  &nbsp;&nbsp;&nbsp; - Supporting Materials: 
-
-  &nbsp;&nbsp;&nbsp; - History: 11/15/23
-
-# Requirement Type 4 - Performance:
-
-- Requirement # : 
-
-  &nbsp;&nbsp;&nbsp; - Rationale: 
-
-  &nbsp;&nbsp;&nbsp; - Originator: Jessica Taylor
-
-  &nbsp;&nbsp;&nbsp; - Fit Criterion: 
 
   &nbsp;&nbsp;&nbsp; - Priority: High Priority
 
