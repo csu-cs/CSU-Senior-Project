@@ -46,15 +46,15 @@ Ruby
 
 ## Libraries, Packages, Development Kits, etc. to be used in in the proposed implementation languages(s)
 
-RubyGems
-SQL Database
+1. RubyGems
+2. SQL Database
 
 ## Additional Software/Equipment Needed
 
-Profession Label Printer
-QR Code Generator
-QR Code Scanner
-Laptop
+1. Profession Label Printer
+2. QR Code Generator
+3. QR Code Scanner
+4. Laptop
 
 ## Personal Motivation
 
