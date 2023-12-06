@@ -29,14 +29,14 @@ This change will make parents happier and reduce stress for volunteers. Safety w
 ## Project Description
 
 With my project I will create a check-in/check-out system that a church can use to check in students for children ministries, Sunday school and daycare.  The first time that a parent checks in their child/children a volunteer will get basic information.
-    1. Parent/s names
-    2. Parent/s contact information.  Phone number and email.
-    3. Child's name/ children's names
-    4. Ages
-    5. Last grade completed in school by child/children.
-    6. Food allergies.
-    7. Special Medical Needs
-    8. Emergency Contact
+1. Parent/s names
+2. Parent/s contact information.  Phone number and email.
+3. Child's name/ children's names
+4. Ages
+5. Last grade completed in school by child/children.
+6. Food allergies.
+7. Special Medical Needs
+8. Emergency Contact
 
 After the initial check in the all that information will not need to be provided but there will be an option to update if anything has changed. At and around the check in the desk there will be many QR codes that will be linked to the kid check in page embedded in the churches website. A parent will scan the QR code if there is no changes the parent can go proceed to check-in. The parents enter the child/children's name and a name tag for each child will be printed from an mini-printer that is connected to the churches wifi.  On that tag will be the child's name, classroom assignment, parent info, food allergies(if applicable), medical needs(if applicable), and emergency contact info. If a parent cannot check access the check in system there with be volunteers to assist if needed.  After the tag is printed the parent is will be given an option of either having a hard tag printed or an email sent to them. They will need either to check out the child at the end of service. A volunteer will escort the child to assign classroom. At check-out the parent will either scan the barcode sent to them in email or on the hard tag printed at check-in.  A volunteer will call to the classroom and have the children sent to the desk or and extra volunteer will escort them to front. When in custody the front desk volunteer will acknowledge check out complete and remove the children from the system.
 
