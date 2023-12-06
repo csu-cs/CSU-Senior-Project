@@ -48,6 +48,7 @@ Ruby
 
 1. RubyGems
 2. SQL Database
+3. AWS Cloud 9
 
 ## Additional Software/Equipment Needed
 
@@ -55,6 +56,7 @@ Ruby
 2. QR Code Generator
 3. QR Code Scanner
 4. Laptop
+   
 
 ## Personal Motivation
 
@@ -62,16 +64,33 @@ This project will enhance my knowledge of building a user friendly website. It w
 
 ## Outline of Future Research Efforts
 
-I will look at other check in systems and see what there strengths and weaknesses are.  I will use ruby to build the initial website and use sql to store the data that is gathered.  I will use images to make the website make it more appealing.
+1. I will look at other check in systems and see what there strengths and weaknesses are.
+2. I will use ruby to build the initial website and use sql to store the data that is gathered.
+3. I will use images to make the website make it more appealing.
+4. I will use Canva to generate QR codes.     https://www.canva.com/qr-code-generator/
+5. Ruby on Rails Tutorial
+6. Handheld Scanner Manual
+7. Label Printer Manual
+8. SQL Database building.                     https://dev.mysql.com/doc/
+9. Interface between between equipment.
+ 
+  
 
 ## Schedule
 
-1. Requirements Document        5 Dec 2023
-2. Basic Website Backbone       26 Jan 2024
-3. Functional SQL Database      12 Feb 2024
-4. Hardware Interface Testing   26 Feb 2024
-5. Website User Design          8 Mar 2024
-6. Security Testing             15 Mar 2024
-7. Polished Website Completed   29 Mar 2024
-8. SQL Security Testing         8 Apr 2024
-9. Overall System Check         15 Apr 2024
+1. Requirements Document             5 Dec 2023
+2. Basic Website Backbone            26 Jan 2024
+3. Functional SQL Database           12 Feb 2024
+4. Hardware Interface Testing        26 Feb 2024
+5. Website User Design               8 Mar 2024
+6. Security Testing                  15 Mar 2024
+7. SQL Security Testing              19 Mar 2024
+9. Polished Website Completed        26 Mar 2024
+10. Overall System Check             29 Mar 2024
+11. Create Test Plan                 4 Apr 2024
+12. Run Test Plan                    8 Apr 2024                
+13. Evalualte Result                 9 Apr 2024
+14. Defense Documention              15 Apr 2024
+15. Create Final Presentation        20 Apr 2024
+17. Dress Rehearsal                  23 Apr 2024  
+18. Final Presentation
