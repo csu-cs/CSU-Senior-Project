@@ -199,3 +199,83 @@
 - **Fit Criterion:** The system operates without unexpected failures.
 - **Priority:** High
 - **Dependencies:** None
+
+## 21. Automated Assignment
+
+- **ID#:** 21
+- **Type:** Functionality
+- **Description:** The system should automatically assign classrooms based on the information provided during check-in.
+- **Rationale:** Automated assignment streamlines the process and reduces the workload on volunteers.
+- **Fit Criterion:** Automated classroom assignments.
+- **Priority:** High
+- **Dependencies:** 2 (Personalization)
+
+## 22. QR Code Integration
+
+- **ID#:** 22
+- **Type:** Functionality
+- **Description:** QR codes should be integrated for quick and efficient check-in/check-out.
+- **Rationale:** QR codes expedite the process, enhancing user convenience.
+- **Fit Criterion:**  High success rate in QR code scans.
+- **Priority:** High
+- **Dependencies:** None
+
+## 23. Email Notifications
+
+- **ID#:** 23
+- **Type:** Functionality
+- **Description:** The system should send email notifications with check-in details and barcode for check-out.
+- **Rationale:** Email notifications provide an additional option for parents and a backup for check-out.
+- **Fit Criterion:** Emails sent within minutes of completing check-in.
+- **Priority:** Low
+- **Dependencies:** None
+
+## 24. Volunteer Assistance
+
+- **ID#:** 24
+- **Type:** Functionality
+- **Description:** Volunteers should be available to assist parents who encounter issues during check-in/check-out.
+- **Rationale:** Volunteer assistance ensures a smooth process for all users, even those unfamiliar with technology.
+- **Fit Criterion:** User issues addressed by volunteers within minutes.
+- **Priority:** Low
+- **Dependencies:** 3 (Ease of Use)
+
+## 25. Tag Printing Options
+
+- **ID#:** 25
+- **Type:** Functionality
+- **Description:** Parents should have the option to choose between hard tags and electronic tags (email) for check out.  Tags for children during check-in should always be printed.
+- **Rationale:** Providing options caters to different preferences and scenarios.
+- **Fit Criterion:** Parents successfully choose their preferred tag option.
+- **Priority:** High
+- **Dependencies:** 28 (Functionality)
+
+## 26. Real-time Reporting
+
+- **ID#:** 26
+- **Type:** Functionality
+- **Description:** The system should provide real-time reports on attendance and other relevant metrics.
+- **Rationale:** Real-time reporting assists in tracking attendance and enables better planning.
+- **Fit Criterion:** Attendance reports can be access upon request.
+- **Priority:** Low
+- **Dependencies:** None
+
+## 27. Tag Printing Accuracy
+
+- **ID#:** 27
+- **Type:** Functionality
+- **Description:** The system should print proper name and other relevant information on child/children tags.
+- **Rationale:** Assists volunteers in case a student wanders from classroom or if student has food alergy.
+- **Fit Criterion:** Can quickly contact parents in case of emergency.
+- **Priority:** High
+- **Dependencies:** 21 (Functionality), 28 (Functionality)
+
+## 28. User Data Input
+
+- **ID#:** 28
+- **Type:** Functionality
+- **Description:** The system should facilitate easy and accurate input of parent and child information during check-in. The system should store data for easy access for returning families.
+- **Rationale:** Streamlined data input ensures the system captures necessary information efficiently.
+- **Fit Criterion:**  Accuracy in data input during check-in.
+- **Priority:** High
+- **Dependencies:** 2 (Personalization), 3 (Ease of Use)
