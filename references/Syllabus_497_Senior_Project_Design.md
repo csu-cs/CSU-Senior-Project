@@ -67,16 +67,16 @@ The proposal will contain the following information:
 
 - [ ] Project Description :iphone:
 
-- [ ] Proposed Implementation Language(s) :octocat:
+- [ ] Proposed Implementation Language(s) :snake::coffee::dart:
 
 - [ ] Libraries, Packages, Development Kits, etc. to be used in in the proposed implementation languages(s) :wrench:
 
-- [ ] Additional Software/Equipment Needed :computer::joystick:
+- [ ] Additional Software/Equipment Needed :computer::joystick::iphone:
 
 - [ ] Personal Motivation :cake:  
     *Describes how this project will further student’s knowledge in the field?*
 
-- [ ] Outline of Future Research Efforts :books::rocket:  
+- [ ] Outline of Future Research Efforts :books::rocket::test_tube:  
     *Describes how the student will complete his/her project. What deliverables can be expected?*
 
 - [ ] Schedule :calendar: :watch:  
@@ -127,7 +127,7 @@ Each requirement will contain at least the following information.
 6.  Priority
 7.  Dependencies (*the ID of any requirement that must be completed before this requirement if any.*)
 
-Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=7cwW1P-8Opc).
+Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=7cwW1P-8Opc&t=6).
 
 ## Grading
 
@@ -180,7 +180,15 @@ Any student who may need accommodations should review the requirements/procedure
 
 ### Nondiscrimination Policy and Student Rights
 
-Charleston Southern University does not illegally discriminate based on race, color, national or ethnic origin, sex, disability, age, religion, genetic information, veteran or military status, or any other basis.  Inquiries regarding the non-discrimination policies should be directed to [Phillip Muckelvane](https://www.charlestonsouthern.edu/directory/muckelvaney-phillip/), Title IX Coordinator, <pmuckelvaney@csuniv.edu>.  Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/) to be fully informed of their rights and remedies.
+Charleston Southern University (CSU) does not illegally discriminate based on race, age, color, national or ethnic origin, disability, sex, pregnancy, childbirth or related medical conditions, religion, genetic information, veteran or military status, or any other basis on which the university is prohibited from discrimination under local, state, or federal law, in its employment or in the provision of its services. Inquiries or complaints regarding the non-discrimination policy, compliance with Title IX of the Education Amendments of 1972, and inquiries or complaints regarding the disability non-discrimination policy including compliance with Section 504 of the Rehabilitation Act of 1973 can be directed to our Title IX campus contacts: 
+
+*  [Dr. Annie Watson](https://www.charlestonsouthern.edu/directory/watson-annie/) / <awatson@csuniv.edu> / 843 863-7159 (accommodations for disabilities or pregnancy)
+*  [Ms. Carrie Gomez](https://www.charlestonsouthern.edu/directory/carrie-gomez/) /  <cgomez@csuniv.edu> / 843 863-7629 (concerns related to creating and maintaining equality between the men’s and women's athletic programs)
+*  [Ms. Lindsey Walke](https://www.charlestonsouthern.edu/directory/walke-lindsey/) /  <lwalke@csuniv.edu> / 843 863-8047 (concerns related to sexual harassment and sexual violence) 
+
+For further information you can visit [CSU Title IX webpage]( https://www.charlestonsouthern.edu/offices/title-ix/) or email <titleix@csuniv.edu>. 
+
+Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/) to be fully informed of their rights and remedies.
 
 ------------
 
