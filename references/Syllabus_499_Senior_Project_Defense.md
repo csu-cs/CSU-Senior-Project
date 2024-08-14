@@ -74,7 +74,7 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to Charleston Southern University’s [Code of Academic Honesty](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2023.pdf). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2023.pdf) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic 
 
 ### Course Evaluations
 
@@ -82,7 +82,7 @@ To pursue our mission of *Academic Excellence in a Christian Environment*, we mu
 
 ### Student Representatives
 
-These are students who are designated by letter to represent the University on official business (e.g., athletic, music, and similar events). If officially scheduled absences cause these students to miss tests, assignments, and/or other similar academic activities, University policy allows these to be made up without penalty. Following this policy, Student Representatives may opt to either make-up tests *before* departure or supplanting missed tests with the final exam grade. Final exams must always be taken *before* departure to avoid an Incomplete for the course. Scheduled assignments remain subject to the lateness policy and must be turned in before departure to avoid lateness penalties. Student Representatives are responsible to inform the instructor of official absences and to make all appropriate arrangements.
+These are students who are designated by letter to represent the University in official business (e.g., athletic, music, and similar events). If officially scheduled absences cause these students to miss tests, assignments, or similar academic activities, university policy allows these to be made up without penalty. Student Representatives may opt to either make-up tests *before* departure or supplant missed tests with the final exam grade. Final exams must always be taken *before* departure to avoid an Incomplete for the course. Scheduled assignments remain subject to the lateness policy and must be turned in before departure to avoid lateness penalties. Student Representatives are responsible for informing the instructor of official absences and to make all appropriate arrangements.
 
 ### Internet Etiquette
 
@@ -103,21 +103,31 @@ CSU's basic netiquette rules are:
 *  Differing views are natural and welcome in discussion boards. Be respectful in your comments-even if you disagree or dislike someone's position on a topic. 
 *  Respect the time and availability of students, faculty, and staff. Emails should be addressed within 24 hours of receipt. Keep in mind that traditional faculty work hours are 8 a.m. - 5 p.m. EST.
 
-### Disability Services
+## Accessibility Services
 
-Any student who may need accommodations should review the requirements/procedures on the [Disability Services website](https://www.charlestonsouthern.edu/academics/student-success-center/disability-services/). Once approved to receive accommodations through Disability Services, the student will need to contact the instructor.
+Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success-center/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
 
-### Nondiscrimination Policy and Student Rights
+## Nondiscrimination Policy and Student Rights
 
-Charleston Southern University (CSU) does not illegally discriminate based on race, age, color, national or ethnic origin, disability, sex, pregnancy, childbirth or related medical conditions, religion, genetic information, veteran or military status, or any other basis on which the university is prohibited from discrimination under local, state, or federal law, in its employment or in the provision of its services. Inquiries or complaints regarding the non-discrimination policy, compliance with Title IX of the Education Amendments of 1972, and inquiries or complaints regarding the disability non-discrimination policy including compliance with Section 504 of the Rehabilitation Act of 1973 can be directed to our Title IX campus contacts: 
-
-*  [Dr. Annie Watson](https://www.charlestonsouthern.edu/directory/watson-annie/) / <awatson@csuniv.edu> / 843 863-7159 (accommodations for disabilities or pregnancy)
-*  [Ms. Carrie Gomez](https://www.charlestonsouthern.edu/directory/carrie-gomez/) /  <cgomez@csuniv.edu> / 843 863-7629 (concerns related to creating and maintaining equality between the men’s and women's athletic programs)
-*  [Ms. Lindsey Walke](https://www.charlestonsouthern.edu/directory/walke-lindsey/) /  <lwalke@csuniv.edu> / 843 863-8047 (concerns related to sexual harassment and sexual violence) 
-
-For further information you can visit [CSU Title IX webpage]( https://www.charlestonsouthern.edu/offices/title-ix/) or email <titleix@csuniv.edu>. 
+Charleston Southern University (CSU) does not illegally discriminate based on race, age, color, national or ethnic origin, disability, sex, pregnancy, childbirth or related medical conditions, religion, genetic information, veteran or military status, or any other basis on which the university is prohibited from discrimination under local, state, or federal law, in its employment or in the provision of its services.
 
 Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/) to be fully informed of their rights and remedies.
+
+### Title IX: Confidentiality and Responsible Employee Statement
+Charleston Southern University is committed to maintaining a safe learning environment for everyone. In accordance with Title IX of the Education Amendments of 1972, the university prohibits any form of sexual harassment, including quid pro quo harassment, hostile environments, sexual assault, dating/domestic violence, and stalking. This policy applies to all students, employees, and visitors.
+
+Additionally, Title IX prohibits discrimination against students based on pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery from these conditions. Pregnant or parenting students may receive accommodations to ensure their full participation in educational programs. These adjustments can be arranged through the university’s Title IX Coordinator or their designee.
+
+Under Charleston Southern University’s Title IX Policy, all faculty members, including teaching assistants, are required to report any disclosures of sex or gender-based discrimination or violence to the Title IX Coordinator. The Title IX Coordinator will provide support and resources while maintaining privacy. If you or someone you know needs assistance, please contact the Title IX Coordinator:
+
+::: {.center style="text-align:center;" data-latex="\center"}
+Summer Cora  
+(843)-863-7374  
+<titleix@csuniv.edu>  
+Office Location: 2nd floor of the Student Center
+:::
+
+Please visit the [CSU Title IX webpage](https://www.charlestonsouthern.edu/offices/title-ix/) here for more information on Title IX procedures, anonymous reporting, or available support.
 
 ------------
 
