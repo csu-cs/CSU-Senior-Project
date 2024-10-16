@@ -35,11 +35,11 @@ The following student outcomes are to be supported by this coursework:
 
 ## Objectives and Tasks
 
-The student is expected to produce a multi-page proposal document and a software requirements specification.
+The student must produce a multi-page proposal document and a software requirements specification.
 
 ### Course Schedule
 
-The deadline to submit the **final** proposal is noon two weeks before the last day of classes. The proposal is then reviewed by your project advisor and accepted/rejected by the CSCI faculty. Draft proposals are expected to submit to the project advisor for review before this final proposal due date.
+The deadline to submit the **final** proposal is noon two weeks before the last day of classes. The proposal is then reviewed by your project advisor and accepted/rejected by the CSCI faculty. Draft proposals are expected to be submitted to the project advisor for review before this final proposal due date.
 
 ### Proposal
 
@@ -69,18 +69,18 @@ The proposal will contain the following information:
 
 - [ ] Proposed Implementation Language(s) :snake::coffee::dart:
 
-- [ ] Libraries, Packages, Development Kits, etc. to be used in in the proposed implementation languages(s) :wrench:
+- [ ] Libraries, Packages, Development Kits, etc. to be used in the proposed implementation languages(s) :wrench:
 
 - [ ] Additional Software/Equipment Needed :computer::joystick::iphone:
 
 - [ ] Personal Motivation :cake:  
-    *Describes how this project will further student’s knowledge in the field?*
+    *Describes how this project will further the student’s knowledge in the field.*
 
 - [ ] Outline of Future Research Efforts :books::rocket::test_tube:  
     *Describes how the student will complete his/her project. What deliverables can be expected?*
 
 - [ ] Schedule :calendar: :watch:  
-    *A list expected dates various tasks will be completed and deliverables will be submitted to the faculty advisor for CSCI 498 and 499*
+    *A list of expected dates various tasks will be completed and deliverables will be submitted to the faculty advisor for CSCI 498 and 499*
 
 ### Requirements Document
 
@@ -161,8 +161,8 @@ Charleston Southern University (CSU) holds students, faculty, and staff to the h
 
 CSU's basic netiquette rules are:
 
-*  Course communications are for internal use only and considered confidential. Do not forward or quote discussion posts, emails, or other course communications to outside parties.
-*  Never share personal login usernames, IDs or passwords.
+*  Course communications are for internal use only and are considered confidential. Do not forward or quote discussion posts, emails, or other course communications to outside parties.
+*  Never share personal login usernames, IDs, or passwords.
 *  Do not type in all capital letters. It is perceived online as shouting.
 *  Use proper capitalization, grammar, spelling, and punctuation conventions for professional communications.
 *  Avoid texting jargon or abbreviations without explanation.
@@ -171,7 +171,7 @@ CSU's basic netiquette rules are:
 *  Be mindful of sending emails. Ensure that content is relevant and pay attention to *Reply* versus *Reply All*. 
 *  BucMail is the only email allowed for course communications. Other platforms (Yahoo, Gmail, etc.) are prohibited. 
 *  In video conferencing, mute your microphone when not speaking.
-*  Differing views are natural and welcome in discussion boards. Be respectful in your comments-even if you disagree or dislike someone's position on a topic. 
+*  Differing views are natural and welcome in discussion boards. Be respectful in your comments - even if you disagree or dislike someone's position on a topic. 
 *  Respect the time and availability of students, faculty, and staff. Emails should be addressed within 24 hours of receipt. Keep in mind that traditional faculty work hours are 8 a.m. - 5 p.m. EST.
 
 ## Accessibility Services
