@@ -21,9 +21,13 @@ and guests.
 
 The following student outcomes are to be supported by this coursework:
 
-2.  An ability to design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs.
+2.  An ability to design, implement, and evaluate a computer-based system, 
+    process, component, or program to meet desired needs.
 
 3.  An ability to communicate effectively with a range of audiences.
+
+4.  Recognize professional responsibilities and make informed judgments in 
+    computing practice based on legal and ethical principles.
 
 ## Course Materials
 
@@ -52,7 +56,7 @@ At the end of this course, the student is expected to have completed his/her pro
 7.  Test Results
 8.  Challenges Overcome
 9.  Future Enhancements
-10.  Defense Presentation Slides
+10. Defense Presentation Slides
 
 ## Objectives and Tasks
 
@@ -107,12 +111,6 @@ CSU's basic netiquette rules are:
 
 Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success-center/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
 
-## Nondiscrimination Policy and Student Rights
-
-Charleston Southern University (CSU) does not illegally discriminate based on race, age, color, national or ethnic origin, disability, sex, pregnancy, childbirth or related medical conditions, religion, genetic information, veteran or military status, or any other basis on which the university is prohibited from discrimination under local, state, or federal law, in its employment or in the provision of its services.
-
-Students should refer to the [CSU Student Handbook](https://www.charlestonsouthern.edu/current-students/student-resources/) to be fully informed of their rights and remedies.
-
 ### Title IX: Confidentiality and Responsible Employee Statement
 Charleston Southern University is committed to maintaining a safe learning environment for everyone. In accordance with Title IX of the Education Amendments of 1972, the university prohibits any form of sexual harassment, including quid pro quo harassment, hostile environments, sexual assault, dating/domestic violence, and stalking. This policy applies to all students, employees, and visitors.
 
@@ -120,12 +118,10 @@ Additionally, Title IX prohibits discrimination against students based on pregna
 
 Under Charleston Southern University’s Title IX Policy, all faculty members, including teaching assistants, are required to report any disclosures of sex or gender-based discrimination or violence to the Title IX Coordinator. The Title IX Coordinator will provide support and resources while maintaining privacy. If you or someone you know needs assistance, please contact the Title IX Coordinator:
 
-::: {.center style="text-align:center;" data-latex="\center"}
-Summer Cora  
+**Summer Cora**  
 (843)-863-7374  
 <titleix@csuniv.edu>  
 Office Location: 2nd floor of the Student Center
-:::
 
 Please visit the [CSU Title IX webpage](https://www.charlestonsouthern.edu/offices/title-ix/) here for more information on Title IX procedures, anonymous reporting, or available support.
 
