@@ -43,7 +43,7 @@ The student must produce a multi-page proposal document and a software requireme
 
 ### Course Schedule
 
-The deadline to submit the **final** proposal is noon two weeks before the last day of classes. The proposal is then reviewed by your project advisor and accepted/rejected by the CSCI faculty. Draft proposals are expected to be submitted to the project advisor for review before this final proposal due date.
+The deadline to submit the **final** proposal is noon two weeks before the last day of classes. The proposal is then reviewed by your project advisor and accepted/rejected by the CSCI faculty. Draft proposals are expected to be submitted to the project advisor for review before the final proposal due date.
 
 ### Proposal
 
@@ -76,6 +76,8 @@ The proposal will contain the following information:
 - [ ] Libraries, Packages, Development Kits, etc. to be used in the proposed implementation languages(s) :wrench:
 
 - [ ] Additional Software/Equipment Needed :computer::joystick::iphone:
+
+- [ ] Alternative Solutions and Rationale 🔍
 
 - [ ] Personal Motivation :cake:  
     *Describes how this project will further the student’s knowledge in the field.*
@@ -115,7 +117,7 @@ The requirements document will contain 20 to 50 requirements that represent a co
     1.  Access
     2.  Integrity
     3.  Privacy
-    4.  Audit (*what information must be recorded to allow security checks.* e.g., logs)
+    4.  Audit (*The information must be recorded to allow security checks,* e.g., logs)
     5.  Immunity
 7.  Cultural
 
@@ -129,7 +131,7 @@ Each requirement will contain at least the following information.
 4.  Rationale
 5.  Fit Criterion (*a measurable/testable condition to know if the product meets this requirement*)
 6.  Priority
-7.  Dependencies (*the ID of any requirement that must be completed before this requirement if any.*)
+7.  Dependencies (*the ID of any requirement that must be completed before this requirement, if any.*)
 
 Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=7cwW1P-8Opc&t=6).
 
