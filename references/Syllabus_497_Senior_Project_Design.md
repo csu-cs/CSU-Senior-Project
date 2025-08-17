@@ -96,7 +96,7 @@ The requirements document will contain 20 to 50 requirements that represent a co
 2.  Look and Feel
     1.  Appearance
     2.  Style
-3.  Usability
+3.  [Usability](https://en.wikipedia.org/wiki/Usability)
     1.  Ease of Use
     2.  Personalization and Internationalization
     3.  Learning
@@ -151,7 +151,27 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2023.pdf) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-July-2025.pdf)) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+
+### AI Policy for CSCI 497
+
+**Level 1. Use of generative AI is *prohibited* in this course.**
+
+To ensure development and mastery of the concepts and skills in this
+course, the use of generative artificial intelligence (AI) tools is
+prohibited. Students who are unsure of this policy or any
+assignment-specific directions, including whether a given technology is
+considered AI, should consult the course instructor before using such
+technology to complete their assignment.
+
+While proper AI use is an important skill that will be emphasized in
+other courses, AI misuse short-circuits the learning process to give the
+illusion of proficiency without the necessary depth. It is unethical to
+take full credit for work created with the help of AI. This principle is
+the same as using someone else’s idea without citing it.
+
+[Review the departmental policies for AI use in Computer Science
+coursework.](https://csu-cs.github.io/csci-235/integrity#artificial-intelligence-ai)
 
 ### Course Evaluations
 
@@ -182,7 +202,7 @@ CSU's basic netiquette rules are:
 
 ## Accessibility Services
 
-Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success-center/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
+Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
 
 ### Title IX: Confidentiality and Responsible Employee Statement
 Charleston Southern University is committed to maintaining a safe learning environment for everyone. In accordance with Title IX of the Education Amendments of 1972, the university prohibits any form of sexual harassment, including quid pro quo harassment, hostile environments, sexual assault, dating/domestic violence, and stalking. This policy applies to all students, employees, and visitors.

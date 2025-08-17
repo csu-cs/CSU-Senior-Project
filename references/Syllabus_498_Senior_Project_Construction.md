@@ -62,7 +62,38 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-Feb-2023.pdf) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic 
+All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-July-2025.pdf)) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic 
+
+### AI Policy for CSCI 498
+
+**Level 2. Permitting or prohibiting AI use on an assignment-by-assignment basis in CSCI 498.**
+
+The use of generative is prohibited for all work on your senior project unless expressly granted by your project advisor. Such permission may be rare and highly dependent on the project and deliverables. To comprehend the various concepts presented in the course material takes considerable effort and practice. Accordingly, the use of artificial intelligence (AI) tools is generally prohibited in this course but will be permitted for select deliverables.
+
+Generative artificial intelligence (AI) tools are prohibited from use for in any step in the process of creating the test plan (idea generation, outlining, writing, etc.).
+
+If AI is used in any capacity for a deliverable, AI requires proper attribution. Given that there is no person to whom the work can be attributed, students should attribute directly quoted text to the creator of the AI tool used (e.g., cite OpenAI when directly quoting ChatGPT). This attribution must be used for both in-text citations and in the reference section.
+
+When using material generated from an AI model in submitted assignments, transparency is key, and these instances must be properly referenced. Use the APA or IEEE style guide for citation.
+
+#### AI Citation example 
+
+Scenario: Your project implementation, a financial investment app, uses ChatGPT agents to simulate stock trades.
+
+1.  **Acknowledge the Tool** For exmample:  
+    > This project implementation used OpenAI’s ChatGPT agents to assist with prototyping investment recommendation logic, generating code snippets, and testing potential trading scenarios.
+
+2.  **Document the Scope of Use**  
+    Be clear about how you used it and where its contributions end. For example:
+    -   Uses ChatGPT agents to simulate stock trades
+    -   Not used to make real financial decisions or give live trading advice.
+
+3.  Include a Proper Reference  
+    In your project's references section, add something like:
+    -   APA style  
+        OpenAI. (2025). ChatGPT (GPT-5) [Large language model]. https://chat.openai.com/
+    -   IEEE style  
+        [1] OpenAI, ChatGPT (GPT-5). [Online]. Available: https://chat.openai.com/
 
 ### Course Evaluations
 
@@ -93,7 +124,7 @@ CSU's basic netiquette rules are:
 
 ## Accessibility Services
 
-Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success-center/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
+Any student who may need accommodations should review the requirements/procedures on the [Accessibility Services website](https://www.charlestonsouthern.edu/academics/student-success/accessibility-services/). Once approved to receive accommodations, the student must contact the instructor.
 
 ### Title IX: Confidentiality and Responsible Employee Statement
 Charleston Southern University is committed to maintaining a safe learning environment for everyone. In accordance with Title IX of the Education Amendments of 1972, the university prohibits any form of sexual harassment, including quid pro quo harassment, hostile environments, sexual assault, dating/domestic violence, and stalking. This policy applies to all students, employees, and visitors.
