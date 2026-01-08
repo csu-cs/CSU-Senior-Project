@@ -62,7 +62,7 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-July-2025.pdf)) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic 
+All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-November-2025.pdf) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic 
 
 ### AI Policy for CSCI 498
 
@@ -80,7 +80,7 @@ When using material generated from an AI model in submitted assignments, transpa
 
 Scenario: Your project implementation, a financial investment app, uses ChatGPT agents to simulate stock trades.
 
-1.  **Acknowledge the Tool** For exmample:  
+1.  **Acknowledge the Tool** For example:  
     > This project implementation used OpenAI’s ChatGPT agents to assist with prototyping investment recommendation logic, generating code snippets, and testing potential trading scenarios.
 
 2.  **Document the Scope of Use**  

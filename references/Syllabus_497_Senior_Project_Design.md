@@ -37,6 +37,13 @@ The following student outcomes are to be supported by this coursework:
 4.  Recognize professional responsibilities and make informed judgments in 
     computing practice based on legal and ethical principles.
 
+## Grading
+
+| Objective                  | Grade Weight |
+|---------------------------:|--------------|
+| Proposal                   | 60%          |
+| Requirements Specification | 40%          |
+
 ## Objectives and Tasks
 
 The student must produce a multi-page proposal document and a software requirements specification.
@@ -90,12 +97,28 @@ The proposal will contain the following information:
 
 ### Requirements Document
 
-The requirements document will contain 20 to 50 requirements that represent a complete description of the project. The requirements will be of the appropriate subset of the types listed below. For more details about these types and help generate requirements ideas, request a free educational copy of the [Volere Requirement Specification Template](https://www.volere.org/templates/volere-requirements-specification-template/).
+The goal of this assignment is to produce a high-quality (SRS) using the Volere approach, with particular emphasis on writing clear, testable requirements with well-defined fit criteria. This document should describe what the system must do and how well it must do it, without prescribing implementation details.
+
+The requirements will be of the appropriate subset of the types listed below. For more details about these types and help generate requirements ideas, request a free educational copy of the [Volere Requirement Specification Template](https://www.volere.org/templates/volere-requirements-specification-template/).
+
+#### Scope and Quantity
+
+Your requirements document must contain 20 – 50 total requirements that, taken together, provide a complete and coherent description of the system.
+
+-   Do not inflate the count with trivial or redundant requirements.
+-   Each requirement should represent a distinct, necessary stakeholder need.
+-   A mix of functional and non-functional requirements is expected.
+
+#### Requirement Types
+
+Your requirements should be drawn from an appropriate subset of the following Volere requirement types. You are not required to use every type, but you should justify the overall balance based on the nature of your system. There will be more functional requirements than any other type.
 
 1.  [Functional](https://en.wikipedia.org/wiki/Functional_requirement)
+
 2.  Look and Feel
     1.  Appearance
     2.  Style
+
 3.  [Usability](https://en.wikipedia.org/wiki/Usability)
     1.  Ease of Use
     2.  Personalization and Internationalization
@@ -103,6 +126,7 @@ The requirements document will contain 20 to 50 requirements that represent a co
     4.  Understandability and Politeness
     5.  Accessibility
     6.  Convenience
+
 4.  Performance
     1.  Speed and Latency
     2.  Safety-Critical
@@ -112,36 +136,70 @@ The requirements document will contain 20 to 50 requirements that represent a co
     6.  Capacity
     7.  Scalability or Extensibility
     8.  Longevity
+
 5.  Maintainability and Support
+
 6.  Security
     1.  Access
     2.  Integrity
     3.  Privacy
     4.  Audit (*The information must be recorded to allow security checks,* e.g., logs)
     5.  Immunity
+
 7.  Cultural
 
 #### Requirement Specification
 
 Each requirement will contain at least the following information.
 
-1.  ID Number
-2.  Type (*see the list above*)
-3.  Description
-4.  Rationale
-5.  Fit Criterion (*a measurable/testable condition to know if the product meets this requirement*)
-6.  Priority
-7.  Dependencies (*the ID of any requirement that must be completed before this requirement, if any.*)
+1.  **ID Number**  
+    A unique identifier (e.g., FR-01, US-04, SEC-02).
 
-Remember, good requirements are precise, testable, unambiguous, and describe the real need. Also, check out this video overview of [What is a Software Requirement Specification](https://www.youtube.com/watch?v=7cwW1P-8Opc&t=6).
+2.  **Type**  
+    One of the requirement types listed above.
 
-## Grading
+3.  **Description**  
+    A clear, concise statement of *what is required*.
 
-| Objective                  | Grade Weight |
-|---------------------------:|--------------|
-| Proposal                   | 60%          |
-| Requirements Specification | 40%          |
+    *  Avoid vague terms such as *fast*, *user-friendly*, or *secure* unless they are clarified by the fit criterion.
+    *  Avoid describing implementation or design unless explicitly required.
+  
+4.  **Rationale**  
+    A brief explanation of *why this requirement exists*.
 
+    *  Identify the stakeholder need, business goal, or risk it addresses.
+
+5.  **Fit Criterion** (Critical)  
+    A **measurable and testable condition** that defines how success will be determined.
+
+    *  Ask: *How would a tester objectively verify that this requirement has been met?*
+
+    *  Fit criteria may involve thresholds, limits, frequencies, error rates, or test outcomes.
+
+    *  If a requirement cannot be tested, it is not yet complete.
+
+6.  **Priority**  
+    An indication of importance (e.g., High / Medium / Low, or Must / Should / Could).
+
+7.  **Dependencies**  
+    The ID(s) of any other requirement(s) that must be satisfied before this one can be implemented or verified (if applicable).
+
+
+#### Quality Expectations
+
+High-quality requirements are:
+
+-   **Precise** – stated clearly, with no unnecessary wording
+
+-   **Unambiguous** – interpreted the same way by all readers
+
+-   **Testable** – validated through the fit criterion
+
+-   **Describe real needs** – traceable to a real stakeholder or system need
+
+-   **Solution-independent** – focused on what, not how
+
+You should assume that your document will be used by developers, testers, and project managers who were not involved in writing it.
 
 ## Attendance
 
@@ -151,7 +209,7 @@ The student is expected to schedule a meeting with the project advisor within th
 
 ### Academic Integrity and the Honor Code
 
-All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-July-2025.pdf)) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
+All students are expected to adhere to [Charleston Southern University's Academic Integrity Policy](https://www.charlestonsouthern.edu/wp-content/uploads/Policy-R-58-updated-November-2025.pdf) and the [Computer Science Departmental Guidelines](https://csu-cs.github.io/csci-235/integrity). For example, all work must be original and must not be copied from another student. Failure to follow this guideline will be considered a violation of the code and will be treated accordingly. Students are encouraged to ask their instructor(s) for clarification regarding their academic dishonesty standards.
 
 ### AI Policy for CSCI 497
 
